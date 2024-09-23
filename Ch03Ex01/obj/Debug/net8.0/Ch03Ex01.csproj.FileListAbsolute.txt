@@ -1,0 +1,14 @@
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.AssemblyInfoInputs.cache
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.AssemblyInfo.cs
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.csproj.CoreCompileInputs.cache
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\bin\Debug\net8.0\Ch03Ex01.exe
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\bin\Debug\net8.0\Ch03Ex01.deps.json
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\bin\Debug\net8.0\Ch03Ex01.runtimeconfig.json
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\bin\Debug\net8.0\Ch03Ex01.dll
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\bin\Debug\net8.0\Ch03Ex01.pdb
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.dll
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\refint\Ch03Ex01.dll
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.pdb
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\Ch03Ex01.genruntimeconfig.cache
+C:\Users\slash\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter03 - TryItOut\Ch03Ex01\Ch03Ex01\obj\Debug\net8.0\ref\Ch03Ex01.dll
